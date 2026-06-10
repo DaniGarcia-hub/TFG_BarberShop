@@ -1,0 +1,151 @@
+{
+  "_fonts-DkuEHybc.css": {
+    "file": "assets/fonts-DkuEHybc.css",
+    "src": "_fonts-DkuEHybc.css"
+  },
+  "_instrument-sans-400-normal-D1W7dsQl.woff": {
+    "file": "assets/instrument-sans-400-normal-D1W7dsQl.woff",
+    "src": "_instrument-sans-400-normal-D1W7dsQl.woff"
+  },
+  "_instrument-sans-400-normal-DRC__1Mx.woff2": {
+    "file": "assets/instrument-sans-400-normal-DRC__1Mx.woff2",
+    "src": "_instrument-sans-400-normal-DRC__1Mx.woff2"
+  },
+  "_instrument-sans-400-normal-Q_nF8v4l.woff2": {
+    "file": "assets/instrument-sans-400-normal-Q_nF8v4l.woff2",
+    "src": "_instrument-sans-400-normal-Q_nF8v4l.woff2"
+  },
+  "_instrument-sans-400-normal-r32jotim.woff": {
+    "file": "assets/instrument-sans-400-normal-r32jotim.woff",
+    "src": "_instrument-sans-400-normal-r32jotim.woff"
+  },
+  "_instrument-sans-500-normal-CAxz3nsc.woff": {
+    "file": "assets/instrument-sans-500-normal-CAxz3nsc.woff",
+    "src": "_instrument-sans-500-normal-CAxz3nsc.woff"
+  },
+  "_instrument-sans-500-normal-CTEe1bJa.woff2": {
+    "file": "assets/instrument-sans-500-normal-CTEe1bJa.woff2",
+    "src": "_instrument-sans-500-normal-CTEe1bJa.woff2"
+  },
+  "_instrument-sans-500-normal-Dk9ku72i.woff2": {
+    "file": "assets/instrument-sans-500-normal-Dk9ku72i.woff2",
+    "src": "_instrument-sans-500-normal-Dk9ku72i.woff2"
+  },
+  "_instrument-sans-500-normal-Z6ESRlEs.woff": {
+    "file": "assets/instrument-sans-500-normal-Z6ESRlEs.woff",
+    "src": "_instrument-sans-500-normal-Z6ESRlEs.woff"
+  },
+  "_instrument-sans-600-normal-B7fBEWYG.woff2": {
+    "file": "assets/instrument-sans-600-normal-B7fBEWYG.woff2",
+    "src": "_instrument-sans-600-normal-B7fBEWYG.woff2"
+  },
+  "_instrument-sans-600-normal-B9e8oLYv.woff": {
+    "file": "assets/instrument-sans-600-normal-B9e8oLYv.woff",
+    "src": "_instrument-sans-600-normal-B9e8oLYv.woff"
+  },
+  "_instrument-sans-600-normal-BsaQcF38.woff2": {
+    "file": "assets/instrument-sans-600-normal-BsaQcF38.woff2",
+    "src": "_instrument-sans-600-normal-BsaQcF38.woff2"
+  },
+  "_instrument-sans-600-normal-DMks36a2.woff": {
+    "file": "assets/instrument-sans-600-normal-DMks36a2.woff",
+    "src": "_instrument-sans-600-normal-DMks36a2.woff"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-B9nYTPEB.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "assets": [
+      "assets/BebasNeue-Regular-DnQEAq2p.woff2",
+      "assets/BebasNeue-Regular-B27qwXwK.woff",
+      "assets/BebasNeue-Regular-D2CONTwO.ttf",
+      "assets/BebasNeue-Regular-BrSZ-BGW.otf",
+      "assets/Girassol-Regular-BAnSHH6y.woff2",
+      "assets/Girassol-Regular-CfVsN-QC.woff",
+      "assets/Girassol-Regular-CEfch8Ma.ttf",
+      "assets/Girassol-Regular-J1k1YsH1.otf",
+      "assets/SortsMillGoudy-Regular-Bi9LH0-B.woff2",
+      "assets/SortsMillGoudy-Regular-BuAFMAgj.woff",
+      "assets/SortsMillGoudy-Regular-Bw-ag0XH.ttf",
+      "assets/SortsMillGoudy-Regular-DwK_z-42.otf",
+      "assets/poppins.regular-C_uC4J8o.woff2",
+      "assets/poppins.regular-hHpQkRYB.woff",
+      "assets/poppins.regular-JiV4gZDp.ttf",
+      "assets/poppins.regular-Dsx3lTOH.otf"
+    ]
+  },
+  "resources/fonts/BebasNeue/BebasNeue-Regular.otf": {
+    "file": "assets/BebasNeue-Regular-BrSZ-BGW.otf",
+    "src": "resources/fonts/BebasNeue/BebasNeue-Regular.otf"
+  },
+  "resources/fonts/BebasNeue/BebasNeue-Regular.ttf": {
+    "file": "assets/BebasNeue-Regular-D2CONTwO.ttf",
+    "src": "resources/fonts/BebasNeue/BebasNeue-Regular.ttf"
+  },
+  "resources/fonts/BebasNeue/BebasNeue-Regular.woff": {
+    "file": "assets/BebasNeue-Regular-B27qwXwK.woff",
+    "src": "resources/fonts/BebasNeue/BebasNeue-Regular.woff"
+  },
+  "resources/fonts/BebasNeue/BebasNeue-Regular.woff2": {
+    "file": "assets/BebasNeue-Regular-DnQEAq2p.woff2",
+    "src": "resources/fonts/BebasNeue/BebasNeue-Regular.woff2"
+  },
+  "resources/fonts/Girassol/Girassol-Regular.otf": {
+    "file": "assets/Girassol-Regular-J1k1YsH1.otf",
+    "src": "resources/fonts/Girassol/Girassol-Regular.otf"
+  },
+  "resources/fonts/Girassol/Girassol-Regular.ttf": {
+    "file": "assets/Girassol-Regular-CEfch8Ma.ttf",
+    "src": "resources/fonts/Girassol/Girassol-Regular.ttf"
+  },
+  "resources/fonts/Girassol/Girassol-Regular.woff": {
+    "file": "assets/Girassol-Regular-CfVsN-QC.woff",
+    "src": "resources/fonts/Girassol/Girassol-Regular.woff"
+  },
+  "resources/fonts/Girassol/Girassol-Regular.woff2": {
+    "file": "assets/Girassol-Regular-BAnSHH6y.woff2",
+    "src": "resources/fonts/Girassol/Girassol-Regular.woff2"
+  },
+  "resources/fonts/Poppins/poppins.regular.otf": {
+    "file": "assets/poppins.regular-Dsx3lTOH.otf",
+    "src": "resources/fonts/Poppins/poppins.regular.otf"
+  },
+  "resources/fonts/Poppins/poppins.regular.ttf": {
+    "file": "assets/poppins.regular-JiV4gZDp.ttf",
+    "src": "resources/fonts/Poppins/poppins.regular.ttf"
+  },
+  "resources/fonts/Poppins/poppins.regular.woff": {
+    "file": "assets/poppins.regular-hHpQkRYB.woff",
+    "src": "resources/fonts/Poppins/poppins.regular.woff"
+  },
+  "resources/fonts/Poppins/poppins.regular.woff2": {
+    "file": "assets/poppins.regular-C_uC4J8o.woff2",
+    "src": "resources/fonts/Poppins/poppins.regular.woff2"
+  },
+  "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.otf": {
+    "file": "assets/SortsMillGoudy-Regular-DwK_z-42.otf",
+    "src": "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.otf"
+  },
+  "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.ttf": {
+    "file": "assets/SortsMillGoudy-Regular-Bw-ag0XH.ttf",
+    "src": "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.ttf"
+  },
+  "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.woff": {
+    "file": "assets/SortsMillGoudy-Regular-BuAFMAgj.woff",
+    "src": "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.woff"
+  },
+  "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.woff2": {
+    "file": "assets/SortsMillGoudy-Regular-Bi9LH0-B.woff2",
+    "src": "resources/fonts/SortsMillGroudy/SortsMillGoudy-Regular.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DO2nEFzp.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

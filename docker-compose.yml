@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  web:
+    container_name: php_app_2
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - mariadb
+
+  mariadb:
+    container_name: mariadb_db_2
+    image: mariadb:11.4
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: a1B3C7D10
+      MYSQL_DATABASE: barberia_db
+      MYSQL_USER: barberia_usuario
+      MYSQL_PASSWORD: a1B3C7D10
+    ports:
+      - "3307:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+volumes:
+  mariadb_data:
